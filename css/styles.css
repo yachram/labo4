@@ -3,6 +3,8 @@
     font-size: 25px;
 }
 body{
+    background-image: url(../images/emptyseats.jpg);
+    background-size: cover;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
 }
